@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author gaspa
+ * @author Gsapar
  */
 public class Ejerc02 {
 
@@ -24,7 +24,7 @@ public class Ejerc02 {
         System.out.println("ingrese su nombre:"); 
         name= leer.next();
         System.out.println("su nombre es "+name);       
-        
+        System.out.println("");
     }
     
 }
