@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package IntroJava;
 
 import java.util.Scanner;
 
         
 /**
  *
- * @author gaspa
+ * Gaspar
  */
 
 public class Ejerc01 {
